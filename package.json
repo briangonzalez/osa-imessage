@@ -31,7 +31,7 @@
         "node": ">=8"
     },
     "dependencies": {
-        "macos-version": "^4.0.0",
+        "macos-version": "briangonzalez/macos-version#remove-throw-side-effect",
         "one-liner": "^1.0.3",
         "osa2": "^0.0.0",
         "sqlite": "^2.8.0"
